@@ -1,6 +1,3 @@
-
-Comment on this file
-@@ -0,0 +1,18 @@
 ## Quantitative Finance - ECO 41552 
 ## The City College of New York
 
